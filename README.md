@@ -1,2 +1,5 @@
-# cadastrorastreios
-múltiplos cadastros de rastreios
+# Cadastrorastreios
+
+Código desenvolvido para estudos.
+
+Múltiplos cadastros de rastreios.
